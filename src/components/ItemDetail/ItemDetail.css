@@ -1,0 +1,10 @@
+.price {
+  font-size: 15px;
+  font-weight: 600;
+  color: red;
+}
+
+.CardItem {
+  width: 80%;
+  margin: auto;
+}

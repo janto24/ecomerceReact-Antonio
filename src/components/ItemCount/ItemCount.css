@@ -1,0 +1,16 @@
+.Contorls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+}
+
+.Number {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.Contorls,
+.Counter {
+  margin: auto;
+}
