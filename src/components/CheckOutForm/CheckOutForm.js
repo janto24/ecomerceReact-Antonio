@@ -33,14 +33,14 @@ const CheckOutForm = ({ onConfirm }) => {
           <Form.Control className='label'
           type='text'
           value={phone}
-          onChange={({ target }) => setName(target.value)}
+          onChange={({ target }) => setPhone(target.value)}
           />
         </FloatingLabel>
         <FloatingLabel controlId="floatingInput" label="Correo Electrónico">
           <Form.Control className='label'
           type='text'
           value={email}
-          onChange={({ target }) => setName(target.value)}
+          onChange={({ target }) => setEmail(target.value)}
           />
         </FloatingLabel>
         <div className='FormButton'>
