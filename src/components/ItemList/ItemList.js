@@ -9,7 +9,8 @@ import { Button } from "react-bootstrap"
 const ItemList = ({products}) => {
   return (
     <div className='Body'>
-      <Row xs={1} md={2} className="g-4">
+      <h3 className='Title'>Productos</h3>
+      <Row xs={1} md={3} className="g-4">
         {products.map((prod, id) => (
           <Col key={id}>
             <Card>

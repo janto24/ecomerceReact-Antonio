@@ -5,6 +5,12 @@
 }
 
 .CardItem {
-  width: 80%;
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.TitleConteiner {
+  width: 85%;
   margin: auto;
 }

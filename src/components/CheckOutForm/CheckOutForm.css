@@ -1,0 +1,9 @@
+.form {
+  width: 80%;
+  margin: auto;
+}
+
+.label,
+.FormButton {
+  margin-top: 10px;
+}
