@@ -1,8 +1,8 @@
 # Entrega Proyecto final React ecommerce
 
-Comisión CoderHouse: 39640
-Prof. Sebastián Oscar Lopez
-Alumno: Juan Antonio (jjanto24@gmail.com)
+* Comisión CoderHouse: 39640
+* Prof. Sebastián Oscar Lopez
+* Alumno: Juan Antonio (jjanto24@gmail.com)
 
 ## Sobre el proyecto:
 
