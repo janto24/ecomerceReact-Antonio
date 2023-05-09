@@ -12,3 +12,6 @@ Se hace particular mención al escazo desarrollo de la parte estética, que a mi
 ## Video funcionamiento
 
 https://drive.google.com/file/d/1PjR07Al-peapsn_Rmt9n35NKRGSOTgqY/view?usp=sharing
+
+## Proyecto en funcionamiento en Firebase:
+https://react-ecommerce-218a5.web.app/
